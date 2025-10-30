@@ -1,4 +1,5 @@
 install.packages("rvest")
+install.packages("tidyverse")
 library(rvest)
 library(tidyverse)
 
